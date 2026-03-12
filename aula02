@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Código de Conduta - Suprema Corte</title>
+    <style>
+        body {
+            background-color: #7a7777;
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            margin: 20px 65px;
+        }
+        h1.reader-title {
+            color: #ff0000;
+            margin: 0 0 20px 0;
+        }
+        h2.reader-title {
+            margin: 10px 0 20px 0;
+            font-weight: normal;
+        }
+        .credits {
+            text-align: right;
+            margin: 0 65px 20px 65px;
+        }
+        .content {
+            margin: 0 65px;
+        }
+        p {
+            text-indent: 10px;
+            text-align: justify;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header reader-header reader-show-element">
+        <h1 class="reader-title">Suprema Corte dos EUA vai usar software para checar conflitos de interesses</h1>
+        <div class="credits reader-credits">
+            <p><b>Leonardo Sakamoto</b></p>
+        </div>
+        <h2 class="reader-title">
+            Após escândalos e críticas, tribunal adota ferramenta interna para reforçar controle ético e transparência nas decisões
+        </h2>
+    </div>
+
+    <div class="content">
+        <p>
+            Como no Brasil, não existe instância acima da corte constitucional que possa revisar a decisão de um membro de participar de um julgamento. Ou seja, se ele ou ela decide não se afastar, não há recurso interno possível — a não ser um impeachment pelo Congresso, a depender da gravidade do caso. O modelo se apoia na ideia de independência judicial máxima e responsabilidade individual, mas também é alvo recorrente de críticas, justamente porque concentra no próprio juiz a palavra final sobre sua imparcialidade.
+        </p>
+        <p>
+            A Suprema Corte também informou que revisou uma série de suas regras internas. As revisões e os documentos relacionados podem ser acessados (em inglês) no site da Suprema Corte. As mudanças passam a valer em 16 de março.
+        </p>
+        <p>
+            “Ao emitir o Código de Conduta para ministros da Suprema Corte dos Estados Unidos, os ministros orientaram os funcionários do tribunal a avaliarem se tal software poderia ser útil para a Corte”, diz o comunicado. O sistema foi projetado e criado pelo Escritório de Tecnologia da Informação da Corte, em cooperação com o Escritório Jurídico e a Secretaria da Corte.
+        </p>
+        <p>
+            A declaração de adoção do software veio na esteira de um escândalo sem precedentes envolvendo presentes e favores dados a ministros. O caso mais ruidoso foi revelado pela agência ProPublica, em 2023, mostrando que o ministro conservador Clarence Thomas aceitava, há décadas, viagens de luxo oferecidas por Harlan Crow, um empresário republicano do setor imobiliário, sem divulgá-las publicamente. Ele utilizava o jatinho e o iate do empresário em viagens pelos Estados Unidos e por outros países.
+        </p>
+        <p>
+            Fachin articula Código de Conduta mais rígido no STF para enfrentar pressões, ampliar transparência e coibir conflitos de interesse.
+        </p>
+        <p>No Brasil, o presidente do Supremo Tribunal Federal, ministro Edson Fachin, vem tentando convencer seus pares a implementar um Código de Conduta que torne mais rígidas regras sobre conflitos de interesses. Ministros, como Dias Toffoli, Gilmar Mendes e Alexandre de Moraes vêm sendo cobrados por conta de seus negócios pessoais, da realização de eventos usados para lobby e da atuação de parentes em casos.</p>
+        <p>A proposta, inspirada no modelo alemão, inclui a obrigatoriedade de divulgar verbas recebidas por palestras, uma "quarentena" de um ano para atuação na advocacia após a aposentadoria e a proibição de advogar no tribunal.</p>
+
+<p>O conflito de interesse ocorre quando interesses privados de uma pessoa (como ganhos financeiros, relações familiares ou favorecimentos) interferem de forma indevida no seu julgamento profissional, capacidade de decisão ou deveres funcionais, prejudicando a imparcialidade. Essa situação coloca o interesse pessoal acima do interesse coletivo ou da organização</p>
+
+    </div>
+</body>
+</html>
