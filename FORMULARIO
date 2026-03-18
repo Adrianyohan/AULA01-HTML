@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+<title>Formulários</title>
+</head>
+<body>
+    <h2>ENVIAR DADOS</h2>
+    <form action="receber.php"method="POST">
+    <label>NOME:</label>
+    <input type="text" name="Nome" required>
+    <br><br>
+    <label>Número</label>
+    <input type="number" name="Numero" required>
+    <br><br>
+    <input type="submit" value="enviar">
+    </form>
+</body>
+</html>
+
+
+
+<!--RECEBERRRRRRRR!-->
+
+<!DOCTYPE php>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+<title>Formulários</title>
+</head>
+<body>
+    <h2>RECEBER DADOS</h2>
+    <?php
+
+$nome = $_POST["Nome"];
+$numero = $_POST["Numero"]; 
+
+
+echo "Nome: ".$nome."<br>";
+echo "Número: ".$numero;
+
+?>
+<br>
+<a href="index1.html">voltar</a>
+
+
+
+
+
+</body>
+</html>
